@@ -11,8 +11,7 @@ Alternatively, [find me on telegram](https://t.me/D_ar_k_Angel)! (Keep all suppo
 
 ### Easy Way to Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jijinr/Filter-Bot)
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Professor-100/Filter-Bot
 ## HOW TO DEPLOY YOUTUBE TUTORIAL
 
 <a href="https://youtu.be/vwLJQlbr4R8"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
